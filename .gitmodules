@@ -9,3 +9,6 @@
 [submodule "achievo-contracts"]
 	path = achievo-contracts
 	url = git@github.com:G7DAO/achievo-contracts.git
+[submodule "hello_foundry/lib/forge-std"]
+	path = hello_foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
