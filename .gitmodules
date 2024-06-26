@@ -1,11 +1,11 @@
 [submodule "protocol"]
 	path = protocol
-	url = git@github.com-g7:G7DAO/protocol
+	url = git@github.com-g7:G7DAO/protocol.git
 
 [submodule "nft-inventory"]
 	path = nft-inventory
-	url = git@github.com-g7:G7DAO/nft-inventory
+	url = git@github.com-g7:G7DAO/nft-inventory.git
 
 [submodule "achievo-contracts"]
 	path = achievo-contracts
-	url = git@github.com-g7:G7DAO/achievo-contracts
+	url = git@github.com-g7:G7DAO/achievo-contracts.git
