@@ -1,11 +1,11 @@
-[submodule "/protocol"]
+[submodule "protocol"]
 	path = protocol
 	url = git@github.com-g7:G7DAO/protocol
 
-[submodule "/nft-inventory"]
+[submodule "nft-inventory"]
 	path = protocol
 	url = git@github.com-g7:G7DAO/nft-inventory
 
-[submodule "/achievo-contracts"]
+[submodule "achievo-contracts"]
 	path = protocol
 	url = git@github.com-g7:G7DAO/achievo-contracts
